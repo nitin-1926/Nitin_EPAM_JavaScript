@@ -1,1 +1,1 @@
-# EPAM JavaScript
+# Task by EPAM authority on JavaScript
